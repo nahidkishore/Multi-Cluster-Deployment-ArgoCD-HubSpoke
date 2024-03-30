@@ -1,4 +1,4 @@
-# Argo CD Setup
+# Argo CD Setup 
 
 ## Install Argo CD
 
@@ -6,6 +6,7 @@
 kubectl create namespace argocd
 kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
 ```
+
 
 ## Run Argo CD in HTTP Mode(Insecure)
 
