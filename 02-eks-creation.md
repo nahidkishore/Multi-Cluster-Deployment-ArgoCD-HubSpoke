@@ -1,4 +1,4 @@
-# EKS Setup
+# EKS Setup Process
 
 ## EKS Clusters Creation
 
