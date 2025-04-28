@@ -1,3 +1,3 @@
-# Multi Cluster Deployment using GitOps tools Argo CD
+# Multi-Cluster Deployment using GitOps tools ArgoCD
 
 #
